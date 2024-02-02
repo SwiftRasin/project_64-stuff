@@ -1,3 +1,6 @@
 You can look at the GORILLA TAG privacy policy because
 it's the same thing my clone does, except it has
 custom servers and mods.
+
+The only information I collect is playfab user ids.
+This lets me, (C64Games) manage my servers.
